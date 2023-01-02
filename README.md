@@ -7,9 +7,8 @@ Olá, me chamo Alessandro!
 
 ## Seja bem-vindo ao meu perfil GitHub 👋
 
-- 🔭 Formado em Análise e Desenvolvimento de Sistemas
-- ⚡ Curiosidade: 
-
+Tenho 26 anos, moro em Maringá/PR e gosto muito de programação e Futebol!
+Tenho sonhos e busco alcançá-los. 
 
 
 ## Ferramentas e Tecnologias
