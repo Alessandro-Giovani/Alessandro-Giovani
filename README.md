@@ -8,7 +8,7 @@
 
 :sunglasses: Tenho 26 anos, moro em Maringá/PR e gosto muito de programação e Futebol!
 
-☕🎮 Adoro games e faço piadas ruins com certa frequência.
+🎮 Adoro games e faço piadas ruins com certa frequência.
 
 
 ## Ferramentas e Tecnologias
