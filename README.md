@@ -10,6 +10,7 @@ Olá, me chamo Alessandro!
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas
 - ⚡ Curiosidade: 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Ferramentas e Tecnologias
 
@@ -25,5 +26,4 @@ Olá, me chamo Alessandro!
 </div>
 
 
-![Snake animation](https://github.com/Alessandro-Giovani/Alessandro-Giovani/blob/output/github-contribution-grid-snake.svg)
 
