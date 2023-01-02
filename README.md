@@ -1,5 +1,3 @@
-Olá pessoal,
-
-Me chamao Alessandro,
+# Olá, me chamo Alessandro!
 
 ## Bem vindo ao meu perfil GitHub 👋
