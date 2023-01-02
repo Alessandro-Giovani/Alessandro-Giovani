@@ -9,7 +9,7 @@ Olá, me chamo Alessandro!
 
 Tenho 26 anos, moro em Maringá/PR e gosto muito de programação e Futebol!
 
-Tenho muitos sonhos e busco alcançá-los. 
+☕🎮 Adoro games e faço piadas ruins com certa frequência.
 
 
 ## Ferramentas e Tecnologias
