@@ -3,7 +3,6 @@ Olá, me chamo Alessandro!
 <a href="https://www.linkedin.com/in/alessandro-g-leonardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Seja bem-vindo ao meu perfil GitHub 👋
 
@@ -26,4 +25,4 @@ Tenho 26 anos, moro em Maringá/PR e gosto muito de programação e Futebol!
 </div>
 
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
