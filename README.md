@@ -5,7 +5,7 @@
 
 ## Sejam bem-vindos ao meu perfil GitHub 👋
 
-:sunglasses: Tenho 27 anos, moro em Maringá/PR e gosto muito de programação e Futebol!
+:sunglasses: Moro em Maringá/PR e gosto muito de programação e Futebol, tenho 2 filhos.
 
 🎮 Adoro games e faço piadas ruins com certa frequência.
 
