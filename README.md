@@ -5,7 +5,7 @@
 
 ## Sejam bem-vindos ao meu perfil GitHub 👋
 
-:sunglasses: Moro em Maringá/PR e gosto muito de programação e Futebol, tenho 2 filhos.
+:sunglasses: Moro em Maringá/PR e gosto muito de **TECNOLOGIAS** e Futebol, tenho 2 filhos.
 
 🎮 Adoro games e faço piadas ruins com certa frequência.
 
